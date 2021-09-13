@@ -1,0 +1,30 @@
+C:\Users\tychi\OneDrive\Рабочий стол\IAmTimer\IAmTimer\bin\Debug\IAmTimer.exe.config
+C:\Users\tychi\OneDrive\Рабочий стол\IAmTimer\IAmTimer\bin\Debug\IAmTimer.exe
+C:\Users\tychi\OneDrive\Рабочий стол\IAmTimer\IAmTimer\bin\Debug\IAmTimer.pdb
+C:\Users\tychi\OneDrive\Рабочий стол\IAmTimer\IAmTimer\obj\Debug\IAmTimer.csprojAssemblyReference.cache
+C:\Users\tychi\OneDrive\Рабочий стол\IAmTimer\IAmTimer\obj\Debug\IAmTimer.Form1.resources
+C:\Users\tychi\OneDrive\Рабочий стол\IAmTimer\IAmTimer\obj\Debug\IAmTimer.Properties.Resources.resources
+C:\Users\tychi\OneDrive\Рабочий стол\IAmTimer\IAmTimer\obj\Debug\IAmTimer.csproj.GenerateResource.cache
+C:\Users\tychi\OneDrive\Рабочий стол\IAmTimer\IAmTimer\obj\Debug\IAmTimer.csproj.CoreCompileInputs.cache
+C:\Users\tychi\OneDrive\Рабочий стол\IAmTimer\IAmTimer\obj\Debug\IAmTimer.exe
+C:\Users\tychi\OneDrive\Рабочий стол\IAmTimer\IAmTimer\obj\Debug\IAmTimer.pdb
+C:\Users\denis\OneDrive\Desktop\TimerLab2\IAmTimer\bin\Debug\IAmTimer.exe.config
+C:\Users\denis\OneDrive\Desktop\TimerLab2\IAmTimer\bin\Debug\IAmTimer.exe
+C:\Users\denis\OneDrive\Desktop\TimerLab2\IAmTimer\bin\Debug\IAmTimer.pdb
+C:\Users\denis\OneDrive\Desktop\TimerLab2\IAmTimer\obj\Debug\IAmTimer.csprojAssemblyReference.cache
+C:\Users\denis\OneDrive\Desktop\TimerLab2\IAmTimer\obj\Debug\IAmTimer.Form1.resources
+C:\Users\denis\OneDrive\Desktop\TimerLab2\IAmTimer\obj\Debug\IAmTimer.Properties.Resources.resources
+C:\Users\denis\OneDrive\Desktop\TimerLab2\IAmTimer\obj\Debug\IAmTimer.csproj.GenerateResource.cache
+C:\Users\denis\OneDrive\Desktop\TimerLab2\IAmTimer\obj\Debug\IAmTimer.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Desktop\TimerLab2\IAmTimer\obj\Debug\IAmTimer.exe
+C:\Users\denis\OneDrive\Desktop\TimerLab2\IAmTimer\obj\Debug\IAmTimer.pdb
+C:\Users\denis\OneDrive\Desktop\TimerLab2\Labi2\bin\Debug\IAmTimer.exe.config
+C:\Users\denis\OneDrive\Desktop\TimerLab2\Labi2\bin\Debug\IAmTimer.exe
+C:\Users\denis\OneDrive\Desktop\TimerLab2\Labi2\bin\Debug\IAmTimer.pdb
+C:\Users\denis\OneDrive\Desktop\TimerLab2\Labi2\obj\Debug\Labi2.csprojAssemblyReference.cache
+C:\Users\denis\OneDrive\Desktop\TimerLab2\Labi2\obj\Debug\Labi2.Form1.resources
+C:\Users\denis\OneDrive\Desktop\TimerLab2\Labi2\obj\Debug\IAmTimer.Properties.Resources.resources
+C:\Users\denis\OneDrive\Desktop\TimerLab2\Labi2\obj\Debug\Labi2.csproj.GenerateResource.cache
+C:\Users\denis\OneDrive\Desktop\TimerLab2\Labi2\obj\Debug\Labi2.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Desktop\TimerLab2\Labi2\obj\Debug\IAmTimer.exe
+C:\Users\denis\OneDrive\Desktop\TimerLab2\Labi2\obj\Debug\IAmTimer.pdb
